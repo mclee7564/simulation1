@@ -1,4 +1,0 @@
-# Streamlit 및 필요한 의존성 정의
-streamlit>=1.0
-numpy>=1.18
-matplotlib>=3.0
