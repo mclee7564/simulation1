@@ -1,0 +1,6 @@
+customtkinter
+streamlit
+numpy
+matplotlib
+Pillow
+pyinstaller
